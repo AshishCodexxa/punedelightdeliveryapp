@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_message.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_lyt_notification_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_notification_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_lyt_order_item_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_order_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-hdpi_placeholder.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-hdpi\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_dialog_otp_confirm_request.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\dialog_otp_confirm_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_notification_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_notification_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\anim_view_show.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\anim\\view_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_dialog_confirm_send_request.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\dialog_confirm_send_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_lyt_wallet_history_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_wallet_history_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_small_call.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_small_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxhdpi_placeholder.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxhdpi\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_wallet_history.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_wallet_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_wallet_white.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_wallet_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_card_shadow.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\card_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "com.punedelights.partners.app-merged_res-6:/layout_activity_login.xml.flat",
+        "source": "com.punedelights.partners.app-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_privacy.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxxhdpi_splash_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxxhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_bg_action_on.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\bg_action_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_terms.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_terms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\font_open_sans_bold.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\font\\open_sans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-mdpi_placeholder.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-mdpi\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_order_detail.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xhdpi_placeholder.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xhdpi\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_show_less.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_show_less.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_bg_btn.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\bg_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_hide.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_action_off.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_action_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\font_open_sans.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\font\\open_sans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_login_curve.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\login_curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_wallet.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\font_lato.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\font\\lato.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-ldpi_placeholder.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-ldpi\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxhdpi_splash_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_logout_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_logout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_drawer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-hdpi_splash_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-hdpi\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xhdpi_splash_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_order.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_pass.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxxhdpi_placeholder.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxxhdpi\\placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_bonus.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_bonus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\font_open_sans_semibold.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\font\\open_sans_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_toolbar_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_show.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_drawer_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\drawer_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_dropdown.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_bg_otp.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\bg_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_edt_home.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_edt_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_lyt_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_disabled_btn.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\disabled_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_action_on.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_action_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_item_progressbar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\item_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_show_more.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_show_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_small_profile.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_small_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-mdpi_splash_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-mdpi\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\anim_view_hide.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\anim\\view_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_default_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\default_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable-ldpi_splash_logo.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable-ldpi\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\layout_lyt_order_list.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_order_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_bg_action_off.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\bg_action_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-merged_res-6:\\drawable_ic_balance.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\drawable\\ic_balance.xml"
+    }
+]

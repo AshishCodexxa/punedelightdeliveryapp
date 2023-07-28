@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\item_progressbar.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\item_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\lyt_notification_list.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_notification_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\toolbar_layout.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_drawer.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_web_view.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_order_detail.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_wallet_history.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_wallet_history.xml"
+    },
+    {
+        "merged": "com.punedelights.partners.app-mergeDebugResources-5:/layout/activity_login.xml",
+        "source": "com.punedelights.partners.app-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\lyt_order_item_list.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_order_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\lyt_wallet_history_list.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_wallet_history_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\dialog_otp_confirm_request.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\dialog_otp_confirm_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_notification_list.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_notification_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\dialog_confirm_send_request.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\dialog_confirm_send_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\lyt_order_list.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_order_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-mergeDebugResources-5:\\layout\\lyt_header.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.1.1\\com.punedelights.partners.app-main-8:\\layout\\lyt_header.xml"
+    }
+]
